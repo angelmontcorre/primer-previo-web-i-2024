@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - UFPS</title>
+    <!-- Agregar Tailwind CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-gray-100">
+    <div class="flex justify-center items-center h-screen">
+      <div class="bg-white p-8 rounded-lg shadow-md max-w-xs w-full">
+        <!-- Nueva sección para la imagen -->
+        <div class="mb-4">
+          <img
+            src="./img/logo_ufps.png"
+            alt="Imagen de ejemplo"
+            class="mx-auto"
+          />
+        </div>
+
+        <h2 class="text-lg font-semibold mb-4">Login Estudiantes UFPS</h2>
+        <form id="loginForm">
+          <label for="codigo" class="block text-sm mb-1"
+            >Código de estudiante:</label
+          >
+          <input
+            type="text"
+            id="codigo"
+            name="codigo"
+            required
+            class="block w-full px-4 py-2 rounded-lg border border-gray-300 focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 text-gray-700 text-sm"
+          />
+
+          <label for="password" class="block text-sm mt-2 mb-1"
+            >Password:</label
+          >
+          <input
+            type="password"
+            id="password"
+            name="password"
+            required
+            class="block w-full px-4 py-2 rounded-lg border border-gray-300 focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50 text-gray-700 text-sm"
+          />
+
+          <!-- ... -->
+          <button
+            type="submit"
+            class="text-white w-full mt-4 py-2 rounded-lg font-semibold text-lg hover:bg-red-700 transition duration-300 ease-in-out"
+            style="
+              background-color: #d31024;
+              font-size: 16px;
+              height: 32px;
+              width: 215px;
+              border-top-left-radius: 20px;
+            "
+          >
+            Ingresar
+          </button>
+          <!-- ... -->
+        </form>
+      </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
+

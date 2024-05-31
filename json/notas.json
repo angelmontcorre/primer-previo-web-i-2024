@@ -1,0 +1,218 @@
+[
+    {
+    "codigo": "1151158", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.8", "n2": "4.4", "n3": "3.7", "ex": "4.7" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.5", "n2": "4.1", "n3": "2.5", "ex": "3.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.1", "n2": "5", "n3": "5", "ex": "2.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.3", "n2": "4.4", "n3": "2.6", "ex": "2.2" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.8", "n2": "2.9", "n3": "3.2", "ex": "4" }
+    ]
+    }, {
+    "codigo": "1151358", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "2.7", "n2": "4.4", "n3": "4.7", "ex": "4.2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "3.5", "n2": "3.4", "n3": "2.6", "ex": "4.8" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.6", "n2": "3.4", "n3": "4.6", "ex": "2.3" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.1", "n2": "2.5", "n3": "3.3", "ex": "4.4" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.2", "n2": "4.2", "n3": "3.6", "ex": "3.8" }
+    ]
+    }, {
+    "codigo": "1151526", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.6", "n2": "2.4", "n3": "3.5", "ex": "2.9" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "3.4", "n2": "4.6", "n3": "2.8", "ex": "4.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.6", "n2": "4.9", "n3": "2.9", "ex": "3.2" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.2", "n2": "4.7", "n3": "3", "ex": "4.1" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.7", "n2": "2.1", "n3": "4.8", "ex": "3.2" }
+    ]
+    }, {
+    "codigo": "1151582", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.5", "n2": "2.8", "n3": "4", "ex": "2.8" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.1", "n2": "4", "n3": "3.7", "ex": "2.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4", "n2": "4.3", "n3": "5", "ex": "4.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.6", "n2": "3.4", "n3": "2.6", "ex": "2" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2", "n2": "2.8", "n3": "2.9", "ex": "3.3" }
+    ]
+    }, {
+    "codigo": "1151734", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "2.7", "n2": "4.3", "n3": "2.9", "ex": "4.7" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.9", "n2": "3.8", "n3": "4.7", "ex": "3.8" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.8", "n2": "3", "n3": "2", "ex": "2.1" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.5", "n2": "2.9", "n3": "3.3", "ex": "2.8" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.3", "n2": "4.5", "n3": "2", "ex": "2" }
+    ]
+    }, {
+    "codigo": "1151752", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.3", "n2": "2.3", "n3": "4.7", "ex": "2.4" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.4", "n2": "2.4", "n3": "3.1", "ex": "4.4" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.2", "n2": "4.8", "n3": "3.5", "ex": "3.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3", "n2": "4.1", "n3": "4.5", "ex": "2.6" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.4", "n2": "2", "n3": "3.8", "ex": "4.9" }
+    ]
+    }, {
+    "codigo": "1151803", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.3", "n2": "2.1", "n3": "3.3", "ex": "3.3" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "3", "n2": "4", "n3": "4.7", "ex": "3.8" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.7", "n2": "4.7", "n3": "2.5", "ex": "3.1" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.7", "n2": "4.9", "n3": "4.8", "ex": "4.1" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.2", "n2": "2.6", "n3": "3.5", "ex": "4.8" }
+    ]
+    }, {
+    "codigo": "1151865", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "2.8", "n2": "3.2", "n3": "2.2", "ex": "4.6" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.4", "n2": "4", "n3": "3.3", "ex": "3.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.3", "n2": "3.9", "n3": "2.3", "ex": "4.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.9", "n2": "3.2", "n3": "4.1", "ex": "3.3" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.9", "n2": "2.2", "n3": "3.8", "ex": "4.9" }
+    ]
+    }, {
+    "codigo": "1151881", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.7", "n2": "3.4", "n3": "4.8", "ex": "3.2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.6", "n2": "3.5", "n3": "3.8", "ex": "4.1" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.9", "n2": "2.3", "n3": "4", "ex": "4.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.1", "n2": "2.4", "n3": "4.8", "ex": "3.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2", "n2": "4.4", "n3": "4.4", "ex": "3.5" }
+    ]
+    }, {
+    "codigo": "1151963", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.7", "n2": "4.3", "n3": "3.8", "ex": "2.4" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.4", "n2": "2", "n3": "4.5", "ex": "4.9" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.2", "n2": "2.7", "n3": "4.9", "ex": "3.4" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.8", "n2": "3", "n3": "4.4", "ex": "3.2" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.8", "n2": "3.1", "n3": "3.1", "ex": "4" }
+    ]
+    }, {
+    "codigo": "1151982", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.6", "n2": "3.8", "n3": "2.7", "ex": "3.8" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "5", "n2": "4.6", "n3": "3.9", "ex": "4.1" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.2", "n2": "4", "n3": "3.7", "ex": "4.7" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.9", "n2": "2", "n3": "5", "ex": "3.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4", "n2": "4.6", "n3": "3.6", "ex": "4.5" }
+    ]
+    }, {
+    "codigo": "1152143", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3", "n2": "4.5", "n3": "2.3", "ex": "2.6" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.3", "n2": "2.3", "n3": "2.1", "ex": "2.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4", "n2": "3.8", "n3": "2.3", "ex": "4" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4", "n2": "2.6", "n3": "5", "ex": "4.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.3", "n2": "3.7", "n3": "2.7", "ex": "3.8" }
+    ]
+    }, {
+    "codigo": "1152146", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.6", "n2": "3.4", "n3": "2.4", "ex": "4.4" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.9", "n2": "4.7", "n3": "4.6", "ex": "3.2" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.2", "n2": "2.9", "n3": "4", "ex": "5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.6", "n2": "2.1", "n3": "3.5", "ex": "2.9" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.5", "n2": "4.6", "n3": "4.5", "ex": "4.6" }
+    ]
+    }, {
+    "codigo": "1152151", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.4", "n2": "3.9", "n3": "3.8", "ex": "4.1" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2", "n2": "2.9", "n3": "4.2", "ex": "3.4" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.3", "n2": "4.3", "n3": "4.7", "ex": "4.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.6", "n2": "3.7", "n3": "4.9", "ex": "4.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.5", "n2": "4.9", "n3": "2", "ex": "2.5" }
+    ]
+    }, {
+    "codigo": "1152169", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "2.9", "n2": "2.8", "n3": "4.6", "ex": "3.8" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.7", "n2": "2.5", "n3": "2.8", "ex": "2.2" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.4", "n2": "2.7", "n3": "2.7", "ex": "4.9" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "5", "n2": "2.9", "n3": "3.2", "ex": "4.7" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.5", "n2": "4.2", "n3": "4.3", "ex": "4.1" }
+    ]
+    }, {
+    "codigo": "1152191", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.2", "n2": "2.9", "n3": "2.3", "ex": "3.9" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.9", "n2": "5", "n3": "2.8", "ex": "3.2" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.6", "n2": "4.4", "n3": "3.6", "ex": "5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.5", "n2": "3.6", "n3": "2.3", "ex": "4.4" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.2", "n2": "4", "n3": "3.6", "ex": "2.2" }
+    ]
+    }, {
+    "codigo": "1152194", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.9", "n2": "2", "n3": "4.7", "ex": "3.7" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "3.2", "n2": "2.5", "n3": "2.5", "ex": "3.7" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.5", "n2": "3.2", "n3": "4.8", "ex": "3.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.8", "n2": "3.2", "n3": "2.3", "ex": "2.4" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.4", "n2": "4", "n3": "3.1", "ex": "2.6" }
+    ]
+    }, {
+    "codigo": "1152196", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3", "n2": "4.1", "n3": "2.9", "ex": "5" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "3.7", "n2": "3.9", "n3": "2.5", "ex": "4.7" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.4", "n2": "4", "n3": "2.1", "ex": "3.9" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.5", "n2": "5", "n3": "4", "ex": "5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.2", "n2": "4.6", "n3": "4.2", "ex": "2.8" }
+    ]
+    }, {
+    "codigo": "1152197", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.6", "n2": "4.4", "n3": "2.4", "ex": "4.7" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.1", "n2": "3", "n3": "4.5", "ex": "4.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.3", "n2": "4.2", "n3": "2.6", "ex": "4.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.3", "n2": "2.4", "n3": "4.8", "ex": "4.2" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.9", "n2": "2.3", "n3": "4.7", "ex": "2.1" }
+    ]
+    }, {
+    "codigo": "1152203", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.7", "n2": "2.9", "n3": "2.1", "ex": "4.1" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "5", "n2": "5", "n3": "4.8", "ex": "4.7" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3", "n2": "4.6", "n3": "4.9", "ex": "3.8" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.2", "n2": "3.5", "n3": "3.8", "ex": "4" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.6", "n2": "4.1", "n3": "2.7", "ex": "4.8" }
+    ]
+    }, {
+    "codigo": "1152239", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "2", "n2": "4.2", "n3": "3.1", "ex": "2.6" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.3", "n2": "3", "n3": "4.7", "ex": "2.8" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.4", "n2": "4.9", "n3": "2.6", "ex": "4.1" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.3", "n2": "3", "n3": "2.6", "ex": "4.4" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.9", "n2": "3.7", "n3": "3.8", "ex": "3.8" }
+    ]
+    }, {
+    "codigo": "1152283", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.9", "n2": "3.9", "n3": "3.7", "ex": "3.3" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.9", "n2": "4.7", "n3": "4.6", "ex": "4.4" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.8", "n2": "2.4", "n3": "3.5", "ex": "3.3" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.6", "n2": "2.6", "n3": "3.2", "ex": "4.9" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.5", "n2": "4.3", "n3": "4.4", "ex": "3.5" }
+    ]
+    }, {
+    "codigo": "1152293", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.1", "n2": "4.1", "n3": "3.9", "ex": "2.3" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.7", "n2": "4.5", "n3": "3.6", "ex": "2.5" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "4.9", "n2": "4.9", "n3": "3.8", "ex": "2.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.3", "n2": "2.9", "n3": "2.7", "ex": "3" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.7", "n2": "3.4", "n3": "2.8", "ex": "2.8" }
+    ]
+    }, {
+    "codigo": "1152302", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.7", "n2": "4.6", "n3": "2", "ex": "3.6" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.6", "n2": "2.3", "n3": "3.1", "ex": "3.3" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2", "n2": "2.9", "n3": "4.8", "ex": "5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.8", "n2": "4.6", "n3": "3.9", "ex": "3.6" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4", "n2": "3.4", "n3": "4", "ex": "4.3" }
+    ]
+    }, {
+    "codigo": "1152307", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.6", "n2": "3.4", "n3": "2.1", "ex": "3.2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.8", "n2": "2.8", "n3": "2.9", "ex": "4.4" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "5", "n2": "5", "n3": "2.5", "ex": "3.2" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.2", "n2": "4.4", "n3": "3.6", "ex": "4.1" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.9", "n2": "2", "n3": "2.4", "ex": "3.7" }
+    ]
+    }, {
+    "codigo": "1152325", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.3", "n2": "2.4", "n3": "3.4", "ex": "3.2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "4.5", "n2": "4.5", "n3": "3.3", "ex": "3.1" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.5", "n2": "4.4", "n3": "4.1", "ex": "2" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.6", "n2": "2.6", "n3": "2.4", "ex": "2.7" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.3", "n2": "5", "n3": "4", "ex": "3.3" }
+    ]
+    }, {
+    "codigo": "1152327", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "5", "n2": "3.5", "n3": "3.9", "ex": "2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.9", "n2": "3.6", "n3": "4.9", "ex": "3.2" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.9", "n2": "2.4", "n3": "3.3", "ex": "4.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "4.2", "n2": "4.6", "n3": "2.7", "ex": "4.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.2", "n2": "3", "n3": "2", "ex": "3.5" }
+    ]
+    }, {
+    "codigo": "1152364", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.6", "n2": "3.1", "n3": "3.9", "ex": "3.3" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.8", "n2": "2.4", "n3": "2.7", "ex": "4.1" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2", "n2": "3.2", "n3": "3.8", "ex": "4.7" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.2", "n2": "3", "n3": "4.4", "ex": "4.3" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "2.7", "n2": "4.9", "n3": "4.7", "ex": "4.5" }
+    ]
+    }, {
+    "codigo": "1151987", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "3.6", "n2": "4.8", "n3": "2.2", "ex": "3.5" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.7", "n2": "4.3", "n3": "3.8", "ex": "4.4" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.8", "n2": "4.4", "n3": "2.5", "ex": "2.5" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.5", "n2": "2.7", "n3": "3.7", "ex": "3.2" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4.5", "n2": "3.4", "n3": "3.4", "ex": "4.8" }
+    ]
+    }, {
+    "codigo": "1152066", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.9", "n2": "2", "n3": "3.6", "ex": "2.2" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.5", "n2": "3.9", "n3": "2.8", "ex": "4.1" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "3.6", "n2": "3.7", "n3": "3.4", "ex": "3.1" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "2.1", "n2": "4.8", "n3": "4", "ex": "4.3" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "4", "n2": "2.7", "n3": "4.6", "ex": "4.3" }
+    ]
+    }, {
+    "codigo": "1152071", "notas": [{ "asignatura": "Calculo 1", "creditos": "3", "n1": "4.6", "n2": "2.2", "n3": "2.1", "ex": "2.8" },
+    { "asignatura": "Programación I", "creditos": "3", "n1": "2.1", "n2": "3.1", "n3": "3.2", "ex": "2.6" },
+    { "asignatura": "Introducción a la Ingeniería", "creditos": "1", "n1": "2.2", "n2": "4.7", "n3": "3.9", "ex": "3" },
+    { "asignatura": "Procesos Comunicativos I", "creditos": "2", "n1": "3.9", "n2": "3.8", "n3": "4.5", "ex": "3.5" },
+    { "asignatura": "Física I", "creditos": "3", "n1": "3.6", "n2": "2.8", "n3": "2.3", "ex": "3.9" }]
+    }]

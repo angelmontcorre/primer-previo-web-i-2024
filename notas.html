@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notas - UFPS</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+  <div class="flex justify-center items-center min-h-screen p-6 bg-gray-100">
+    <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-2xl">
+      <div id="studentInfo" class="mb-4">
+        <!-- Información del estudiante será insertada aquí -->
+      </div>
+      <div class="overflow-x-auto">
+        <table id="gradesTable" class="min-w-full leading-normal">
+          <!-- Las notas serán insertadas aquí -->
+        </table>
+      </div>
+      <div id="average" class="mt-6 font-semibold">
+        <!-- El promedio ponderado será insertado aquí -->
+      </div>
+      <button id="logoutButton" class="mt-6 bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded w-full">
+        Cerrar Sesión
+      </button>
+    </div>
+  </div>
+  <script src="./js/notas.js"></script>
+</body>
+</html>
